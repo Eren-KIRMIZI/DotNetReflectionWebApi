@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DotNetReflectionWebApi/DotNetReflectionWebApi.csproj" />
+  <Project Path="WebApi.ReflectionDemo/WebApi.ReflectionDemo.csproj" />
+</Solution>
